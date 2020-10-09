@@ -148,7 +148,7 @@
 /*===================================
     Default Styles
 ====================================*/
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,900|Permanent+Marker|Playfair+Display:400,400i,700,700i,900,900i|Montserrat:300,300i,400,400i,500,500i,600,700,700i,800|Open+Sans:400|Roboto:400,400i,500,500i,700,700i,900|Reenie+Beanie");
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,900|Permanent+Marker|Playfair+Display:400,400i,700,700i,900,900i|Montserrat:300,300i,400,400i,500,500i,600,700,700i,800|Open+Sans:400|roboto:400,400i,500,500i,700,700i,900|Reenie+Beanie");
 @import url("https://fonts.googleapis.com/css?family=Spectral:600i&display=swap");
 .color-dark {
   color: #222222 !important; }
@@ -158,7 +158,7 @@
  font-family: 'Permanent Marker', cursive;
  font-family: 'Playfair Display', serif;
  font-family: 'Montserrat', sans-serif;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'roboto', sans-serif;
  =================================================*/
 @media only screen and (max-width: 575px) {
   .container {
@@ -863,7 +863,7 @@ Animation Css
  font-family: 'Playfair Display', serif;
  font-family: 'Montserrat', sans-serif;
  font-family: 'Open Sans', sans-serif;
- font-family: 'Roboto', sans-serif;
+ font-family: 'roboto', sans-serif;
  font-family: 'Reenie Beanie', cursive;
  font-family: 'CerebriSans';
  
@@ -1013,7 +1013,7 @@ Animation Css
   font-family: "Spectral", serif; }
 
 .roboto-font {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 .CerebriSans-font {
   font-family: "CerebriSans";
@@ -8453,13 +8453,13 @@ a.moredetails-btn {
   font-size: 18px;
   line-height: 32px;
   color: #fff !important;
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
   .video-btn-text i {
     margin-right: 5px; }
 
 .corona-btn {
   font-size: 18px !important;
-  font-family: "Roboto", sans-serif !important; }
+  font-family: "roboto", sans-serif !important; }
 
 @-webkit-keyframes border-animate-top {
   0% {
@@ -8807,7 +8807,7 @@ a.moredetails-btn {
 .brook-section-title-corona p {
   font-size: 18px;
   line-height: 34px;
-  font-family: "Roboto", sans-serif;
+  font-family: "roboto", sans-serif;
   font-weight: 400;
   margin-bottom: 0; }
   @media only screen and (max-width: 767px) {
@@ -11194,7 +11194,7 @@ Contact Form Style 01
   line-height: 38px;
   font-weight: 300;
   color: #fff;
-  font-family: "Roboto", sans-serif;
+  font-family: "roboto", sans-serif;
   margin-bottom: 30px; }
   @media only screen and (min-width: 1200px) and (max-width: 1599px) {
     .about-coronavirus-content .sub-title {
@@ -11219,7 +11219,7 @@ Contact Form Style 01
   line-height: 34px;
   color: #fff;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "roboto", sans-serif;
   margin-bottom: 30px; }
   @media only screen and (min-width: 1200px) and (max-width: 1599px) {
     .about-coronavirus-content .pragraph {
@@ -12807,7 +12807,7 @@ a {
   line-height: 32px;
   color: #fff;
   margin-bottom: 40px;
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
   @media only screen and (min-width: 1200px) and (max-width: 1599px) {
     .hero-content-5 p {
       margin-bottom: 20px; } }
@@ -13840,7 +13840,7 @@ Contagion Area
       font-size: 16px;
       line-height: 26px;
       font-weight: 400;
-      font-family: "Roboto", sans-serif;
+      font-family: "roboto", sans-serif;
       margin-bottom: 0; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .single-contagion .contagion-content p {
@@ -13944,7 +13944,7 @@ Contagion Area
       font-size: 16px;
       line-height: 26px;
       font-weight: 400;
-      font-family: "Roboto", sans-serif;
+      font-family: "roboto", sans-serif;
       max-width: 255px;
       margin-bottom: 0; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -16022,7 +16022,7 @@ Typography Area
   .heading.secondary-font {
     font-family: "Montserrat", sans-serif; }
   .heading.roboto-font {
-    font-family: "Roboto", sans-serif; }
+    font-family: "roboto", sans-serif; }
   .heading.font-reenie {
     font-family: 'Reenie Beanie', cursive; }
   .heading.font-blod {
@@ -17306,7 +17306,7 @@ Dividers Area
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .bk-accordion-style--2.border-style .card-body {
       font-size: 16px;
@@ -17351,7 +17351,7 @@ Dividers Area
   font-size: 18px;
   line-height: 34px;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "roboto", sans-serif;
   max-width: 460px; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .faq-content p {
@@ -44976,50 +44976,50 @@ body.template-font-6 .h3,
 body.template-font-6 .h4,
 body.template-font-6 .h5,
 body.template-font-6 .h6 {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .heading.font-reenie {
   font-family: 'Reenie Beanie', cursive; }
 
 body.template-font-6 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .mega__width--fullscreen .mega__list li a span {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .copyright ul.bk-copyright-menu li a {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .copyright .copyright-right p {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .footer-widget .footer-address p {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .form-style--1 .input-box input,
 body.template-font-6 .form-style--1 .input-box textarea {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .testimonial_style--1 .content p {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .service.service--1 .content p {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .service.service--2 .content h4 {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-6 .service.service--2 .content p {
-  font-family: "Roboto", sans-serif; }
+  font-family: "roboto", sans-serif; }
 
 body.template-font-7 .heading,
 body.template-font-7 h1,
